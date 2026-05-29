@@ -5123,7 +5123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ZombieAttack
   healingShroudDebuff: {fileID: 0}
-  timeBetweenAttacks: 0.5
+  timeBetweenAttacks: 3
   attackDamage: 10
   animator: {fileID: 6349650616731413158}
 --- !u!114 &3031216767647972493

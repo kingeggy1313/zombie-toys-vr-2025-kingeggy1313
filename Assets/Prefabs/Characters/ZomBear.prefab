@@ -14,7 +14,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 100074, guid: c236aa7ad6dcabe47abc7d2cf903ae71, type: 3}
       propertyPath: m_Name
-      value: ZomBear 1
+      value: ZomBear
       objectReference: {fileID: 0}
     - target: {fileID: 100074, guid: c236aa7ad6dcabe47abc7d2cf903ae71, type: 3}
       propertyPath: m_Layer
@@ -5123,7 +5123,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ZombieAttack
   healingShroudDebuff: {fileID: 0}
-  timeBetweenAttacks: 0.5
+  timeBetweenAttacks: 3
   attackDamage: 10
   animator: {fileID: 8202273567195846576}
 --- !u!114 &6429535609394993261
